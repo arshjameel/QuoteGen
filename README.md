@@ -27,7 +27,7 @@ python .\quotegen.py
 ## How to modify preset accounts
 Look for this block of code in line 41.
 
-![image](https://github.com/user-attachments/assets/cff87228-19a0-4a38-a20f-558456ed5b9b)
+![image](https://github.com/arshjameel/QuoteGen/blob/main/assets/quotegenusernames.png)
 
 Change the Twitter handles specified within the quotes to any other Twitter handle you prefer to follow.
 
