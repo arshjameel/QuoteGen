@@ -3,7 +3,7 @@
 ## Description
 A sister app of [TweetGen](https://github.com/arshjameel/TweetGen). 
 
-The original program was modified to provide tweets from a number of preset Twitter accounts. It allows the program to behave as an FYP where you get your favoirite accounts' most recent tweets.
+The original program was modified to provide tweets from a number of preset Twitter accounts. It allows the program to behave as an FYP where you get your favourite accounts' most recent tweets.
 
 ## Installation
 In order to use this program we need the [ntscraper](https://github.com/bocchilorenzo/ntscraper) library.
