@@ -1,6 +1,9 @@
 # QuoteGen
+
 ## Description
-A sister app of [TweetGen](https://github.com/arshjameel/TweetGen). The original program was modified to provide tweets from a number of preset Twitter accounts. It allows the program to behave as an FYP for motivational accounts.
+A sister app of [TweetGen](https://github.com/arshjameel/TweetGen). 
+
+The original program was modified to provide tweets from a number of preset Twitter accounts. It allows the program to behave as an FYP where you get your favoirite accounts' most recent tweets.
 
 ## Installation
 In order to use this program we need the [ntscraper](https://github.com/bocchilorenzo/ntscraper) library.
@@ -23,11 +26,10 @@ python .\quotegen.py
 
 ## How to modify preset accounts
 Look for this block of code in line 41.
+
 ![image](https://github.com/user-attachments/assets/cff87228-19a0-4a38-a20f-558456ed5b9b)
 
-Change the twitter handles specified within the quotes to any other Twitter handle you prefer to follow.
-
+Change the Twitter handles specified within the quotes to any other Twitter handle you prefer to follow.
 
 ## Notes
-* Please visit the [TweetGen](https://github.com/arshjameel/TweetGen) repository for more information, since this app is the same except for some minor changes that allowed me to preset specific Twitter accounts.
-* The purpose of making such a change was because it allows the program to somewhat behave as an RSS feed where you get your favorite Twitter accounts' most recent tweets.
+Please visit the [TweetGen](https://github.com/arshjameel/TweetGen) repository for more information, since this app is the same except for some minor changes that allowed me to preset specific Twitter accounts.
