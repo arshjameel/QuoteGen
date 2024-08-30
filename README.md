@@ -24,7 +24,7 @@ Then:
 python .\quotegen.py
 ```
 
-## How to modify preset accounts
+## How to modify
 Look for this block of code in line 41.
 
 ![image](https://github.com/arshjameel/QuoteGen/blob/main/assets/quotegenusernames.png)
