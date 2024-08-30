@@ -17,9 +17,11 @@ pip install ntscraper
 to run this program you have to clone this repository to your local machine using:
 ```
 git clone https://github.com/arshjameel/QuoteGen.git
+```
+```
 cd QuoteGen
 ```
-Then:
+Then run the program with:
 ```
 python .\quotegen.py
 ```
